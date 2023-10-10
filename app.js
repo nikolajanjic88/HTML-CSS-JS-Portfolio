@@ -75,6 +75,11 @@ const works = [
     title: 'Laravel API',
     desc: 'Write an API in Laravel',
     image: 'images/work/api.jpg'
+  },
+  {
+    title: 'Silmarilion Quiz',
+    desc: 'Test your knowledge about First Age of Middle Earth',
+    image: 'images/work/silmarilion.jpg'
   }
   
 ];
